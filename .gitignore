@@ -1,0 +1,8 @@
+.settings/
+target/
+.classpath
+.mymetadata
+.project
+.idea/
+community-server.iml
+/bin/
